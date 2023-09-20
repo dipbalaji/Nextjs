@@ -19,8 +19,11 @@ export function GET(request){
 }
 
 
-export function POST(){
-    
+export function POST(request){
+    console.log(request);
+    return NextResponse.json({
+        message:"posting data"
+    })
 }
 
 export function DELETE(request){

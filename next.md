@@ -11,7 +11,23 @@ fullstack nextjs or mongodb<br/>
 NextJs-front end<br/>
 NextJs - back end<br/>
 MongoDb - database<br/>
-- Route.js:- file main hum API likhate hain
+- Route.js:- file main hum API likhate hain<br/>
+
+- create dynamic routes<br/>
+ex:- api/user/[userid]<br/>
+api/user/[userid]/post/[postid] <br/>
+
+- NextRequest: NextRequest is object<br/>
+- NextResponse:- NextResponse is object<br/>
+
+function GET (request){
+  request: fetch->headers,cookies,method,body,json
+}
+
+<br/><br/>
+
+
+
 <h3>Git Commands</h3>
 
 git hub commands<br/>
