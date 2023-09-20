@@ -11,6 +11,8 @@ fullstack nextjs or mongodb<br/>
 NextJs-front end<br/>
 NextJs - back end<br/>
 MongoDb - database<br/>
+- Route.js:- file main hum API likhate hain
+<h3>Git Commands</h3>
 
 git hub commands<br/>
 steps:-<br/>
@@ -52,3 +54,5 @@ git push
 
 if error is comming below type
 error: failed to push some refs to 'https://github.com/dipbalaji/Nextjs.git'
+
+
